@@ -23,15 +23,15 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 ## Skills:
 + HTML
 + CSS
-	-SASS/SCSS
-	-Bootstrap
-	-Flex
-	-Grid
-	-BEM (Block, Element, Modifier)
+	- SASS/SCSS
+	- Bootstrap
+	- Flex
+	- Grid
+	- BEM (Block, Element, Modifier)
 + JS
 + other
-	-gulp
-	-github
+	- gulp
+	- github
 
 ### [My portfolio](https://github.com/Shustovsky/my-portfolio)
 
