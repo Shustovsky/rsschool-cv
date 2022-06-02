@@ -33,7 +33,7 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 	- gulp
 	- github
 
-### [My portfolio]:<https://github.com/Shustovsky/my-portfolio>
+### [My portfolio][https://github.com/Shustovsky/my-portfolio]
 
 ### Education:
 + Belarusian State Economic University 2012 - 2014
