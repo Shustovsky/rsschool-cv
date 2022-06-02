@@ -12,6 +12,7 @@
 		-[https://t.me/Sachalll][telegram]
 		-[https://www.facebook.com/lllyctuk][facebook]
 		-[https://vk.com/shustovsky_a][vk]
+		-[shustovsky#2636] [discord]
 
 ### Info:
 My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in Georgia. ***
