@@ -6,7 +6,7 @@
 		-**995 591 081 493** _(Ge)_
 		-**375 25 706 74 63** _(Blr)_
 	+social:
-		-[https://www.linkedin.com/in/alexander-shustovsky-540417234/][linkedin]
+		- [https://www.linkedin.com/in/alexander-shustovsky-540417234/][linkedin]
 		-[https://github.com/Shustovsky][github]
 		-[https://t.me/Sachalll][telegram]
 		-[https://www.facebook.com/lllyctuk][facebook]
@@ -31,3 +31,10 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 		-gulp
 		-github
 
+### [My portfolio][https://github.com/Shustovsky/my-portfolio]
+
+### *Education
+	+Belarusian State Economic University 2012 - 2014
+	+Udemy. Web Developer 2022
+
+### English level - A2 English (Pre Intermediate)
