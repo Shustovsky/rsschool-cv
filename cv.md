@@ -1,4 +1,5 @@
 # Alexander Shustovsky
+![photo](https://sun1.userapi.com/sun1-84/s/v1/ig2/zZn7PcLD9PqDPJM3OM8kWu5VyWIFtejuW3iA4xWbSAwAw5gypQTb_DCBhpt7qT5HUAPU5qmh_1f8-qa_G2P6FDJF.jpg?size=200x200&quality=95&crop=285,442,608,608&ava=1)
 ## *Contacts:
 	+mail:
 		-a.shustovsky@gmail.com
