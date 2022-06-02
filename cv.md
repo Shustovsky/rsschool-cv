@@ -47,4 +47,5 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 ### Languages
 + Russian - native speaker.
 + English - A2 Pre-Intermediate
+
 *I try to learn English in every possible way. I use application in smartphone: Duolingo and I use yandex translate a lot.*
