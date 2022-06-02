@@ -3,19 +3,19 @@
 ## Contacts:
 + mail:
 	- a.shustovsky@gmail.com
-+ tel:
-	- **995 591 081 493** *Georgian*
++ phone:
+	- **995 591 081 493** *Georgia*
 	- **375 25 706 74 63** *Belarus*
 + social:
-	- [linkedin](https://www.linkedin.com/in/alexander-shustovsky-540417234/)
-	- [github](https://github.com/Shustovsky)
-	- [telegram](https://t.me/Sachalll)
-	- [facebook](https://www.facebook.com/lllyctuk)
-	- [vk](https://vk.com/shustovsky_a)
-	- [discord](shustovsky#2636)
+	- [LinkedIn](https://www.linkedin.com/in/alexander-shustovsky-540417234/)
+	- [GitHub](https://github.com/Shustovsky)
+	- [Telegram](https://t.me/Sachalll)
+	- [Facebook](https://www.facebook.com/lllyctuk)
+	- [Vk](https://vk.com/shustovsky_a)
+	- [Discord](shustovsky#2636)
 
 ### Info:
-My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in Georgia. \
+My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in **Georgia**. \
 I am a former bank employee. i was forced to change his place of work due to the events in Belarus in August 2020. But at the same time, I've always liked web development.\
 My goal is to become a successful and in-demand specialist, constantly improve my level of knowledge and enter the IT community)))\
 My skills are: purposefulness, responsibility, sociability, ability to work in a team, honesty.
@@ -30,13 +30,21 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 	- BEM (Block, Element, Modifier)
 + JS
 + other
-	- gulp
-	- github
+	- Gulp
+	- Github
+	- Figma
+	- Photoshop
+	- VSCode
 
 ### [My portfolio][https://github.com/Shustovsky/my-portfolio]
 
 ### Education:
 + Belarusian State Economic University 2012 - 2014
-+ Udemy. Web Developer 2022
++ Udemy: 
+	-Web Developer 2022
+	-Fundamental JavaScript. With practice and projects (in process…)
 
-### English level - A2 English (Pre Intermediate)
+### Languages
++ Russian - native speaker.
++ English - A2 Pre-Intermediate
+*I try to learn English in every possible way. I use application in smartphone: Duolingo and I use yandex translate a lot.*
