@@ -15,10 +15,10 @@
 		-[shustovsky#2636] [discord]
 
 ### Info:
-My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in Georgia. ***
-I am a former bank employee. i was forced to change his place of work due to the events in Belarus in August 2020. But at the same time, I've always liked web development. ***
-My goal is to become a successful and in-demand specialist, constantly improve my level of knowledge and enter the IT community)***
-My skills are: purposefulness, responsibility, sociability, ability to work in a team, honesty. ***
+My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in Georgia. \
+I am a former bank employee. i was forced to change his place of work due to the events in Belarus in August 2020. But at the same time, I've always liked web development.\
+My goal is to become a successful and in-demand specialist, constantly improve my level of knowledge and enter the IT community)))\
+My skills are: purposefulness, responsibility, sociability, ability to work in a team, honesty.\
 
 ## Skills:
 	+HTML
