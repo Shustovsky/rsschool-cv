@@ -4,15 +4,15 @@
 + mail:
 	- a.shustovsky@gmail.com
 + tel:
-	- **995 591 081 493** *Ge*
-	- **375 25 706 74 63** *Blr*
+	- **995 591 081 493** *Georgian*
+	- **375 25 706 74 63** *Belarus*
 + social:
-	- [https://www.linkedin.com/in/alexander-shustovsky-540417234/][linkedin]
-	- [https://github.com/Shustovsky][github]
-	- [https://t.me/Sachalll][telegram]
-	- [https://www.facebook.com/lllyctuk][facebook]
-	- [https://vk.com/shustovsky_a][vk]
-	- [shustovsky#2636] [discord]
+	- [linkedin](https://www.linkedin.com/in/alexander-shustovsky-540417234/)
+	-[github](https://github.com/Shustovsky)
+	- [telegram](https://t.me/Sachalll)
+	- [facebook](https://www.facebook.com/lllyctuk)
+	- [vk](https://vk.com/shustovsky_a)
+	- [discord](shustovsky#2636)
 
 ### Info:
 My name is Alexander, I am 29 years old. I am from Belarus, but at the moment I am in Georgia. \
@@ -33,7 +33,7 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 	-gulp
 	-github
 
-### [My portfolio][https://github.com/Shustovsky/my-portfolio]
+### [My portfolio](https://github.com/Shustovsky/my-portfolio)
 
 ### Education:
 + Belarusian State Economic University 2012 - 2014
