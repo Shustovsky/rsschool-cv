@@ -1,12 +1,12 @@
 # Alexander Shustovsky
 ![photo](https://sun1.userapi.com/sun1-84/s/v1/ig2/zZn7PcLD9PqDPJM3OM8kWu5VyWIFtejuW3iA4xWbSAwAw5gypQTb_DCBhpt7qT5HUAPU5qmh_1f8-qa_G2P6FDJF.jpg?size=200x200&quality=95&crop=285,442,608,608&ava=1)
 ## Contacts:
-+ mail:
++ Mail:
 	- a.shustovsky@gmail.com
-+ phone:
++ Phone:
 	- **995 591 081 493** *Georgia*
 	- **375 25 706 74 63** *Belarus*
-+ social:
++ Social:
 	- [LinkedIn](https://www.linkedin.com/in/alexander-shustovsky-540417234/)
 	- [GitHub](https://github.com/Shustovsky)
 	- [Telegram](https://t.me/Sachalll)
@@ -41,8 +41,8 @@ My skills are: purposefulness, responsibility, sociability, ability to work in a
 ### Education:
 + Belarusian State Economic University 2012 - 2014
 + Udemy: 
-	-Web Developer 2022
-	-Fundamental JavaScript. With practice and projects (in process…)
+	- Web Developer 2022
+	- Fundamental JavaScript. With practice and projects (in process…)
 
 ### Languages
 + Russian - native speaker.
