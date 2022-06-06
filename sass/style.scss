@@ -1,0 +1,28 @@
+@import "libs/bootstrap-reboot.min";
+@import "blocks/header";
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+    /* подчеркивает каждый элемент карсным */
+}
+
+html {
+    scroll-behavior: smooth;
+    /* для плавной прокрутки */
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1440px;
+}
