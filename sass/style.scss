@@ -1,4 +1,5 @@
 @import "libs/bootstrap-reboot.min";
+@import "base/variables";
 @import "blocks/main";
 @import "blocks/header";
 * {
@@ -26,4 +27,16 @@ body {
 .container {
     margin: 0 auto;
     max-width: 1440px;
+}
+
+a {
+    text-decoration: none;
+    color: $main-color;
+    padding: 0 20px;
+    line-height: 50px;
+    &:hover {
+        transition: all 0.8s;
+        color: lightcoral;
+        text-decoration: dotted underline lightcoral 1px;
+    }
 }

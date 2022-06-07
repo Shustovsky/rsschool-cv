@@ -10,17 +10,6 @@
         &__item {
             list-style-type: none;
         }
-        &__link {
-            text-decoration: none;
-            color: $main-color;
-            padding: 0 20px;
-            line-height: 50px;
-            &:hover {
-                transition: all 1.6s;
-                color: lightcoral;
-                text-decoration: dotted underline lightcoral 1px;
-            }
-        }
     }
     .profile {
         display: grid;
