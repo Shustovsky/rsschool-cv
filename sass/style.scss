@@ -32,8 +32,7 @@ body {
 a {
     text-decoration: none;
     color: $main-color;
-    padding: 0 20px;
-    line-height: 50px;
+    padding: 0 10px;
     &:hover {
         transition: all 0.8s;
         color: lightcoral;
