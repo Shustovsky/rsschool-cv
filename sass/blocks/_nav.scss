@@ -1,0 +1,17 @@
+.nav {
+    &__list {
+        background: $second-background-color;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-wrap: wrap;
+        line-height: 35px;
+        margin: 0;
+        a {
+            color: white;
+        }
+    }
+    &__item {
+        list-style-type: none;
+    }
+}
