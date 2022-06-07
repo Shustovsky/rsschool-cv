@@ -23,7 +23,7 @@
         &__name {
             margin: 20px;
             .section__title {
-                font-size: calc(24px + (16 + 16 * 0.7) * ((100vw - 320px) / 1280));
+                font-size: 40px;
                 letter-spacing: 5px;
             }
             .divider {
@@ -33,7 +33,7 @@
             }
         }
         &__dscr {
-            font-size: calc(10px + (10 + 10 * 0.7) * ((100vw - 320px) / 1280));
+            font-size: 23px;
             color: $main-color;
             padding-top: 20px;
             text-transform: uppercase;
