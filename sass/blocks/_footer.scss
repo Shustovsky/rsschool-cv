@@ -1,0 +1,23 @@
+.footer {
+    &_container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: $second-background-color;
+        height: 100px;
+        padding: 20px;
+    }
+    &__logo {
+        height: 100%;
+        img {
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+    &__dscr {
+        color: white;
+        a {
+            color: white;
+        }
+    }
+}
