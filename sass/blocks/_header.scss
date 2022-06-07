@@ -24,17 +24,17 @@
     }
     .profile {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        grid-template-rows: 250px;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-template-rows: 200px;
         grid-auto-rows: 250px;
         grid-auto-flow: dense;
-        gap: 20px;
+        column-gap: 20px;
         align-items: center;
         &__name {
             margin: 20px;
             .section__title {
                 font-size: calc(24px + (16 + 16 * 0.7) * ((100vw - 320px) / 1280));
-                ;
+                letter-spacing: 5px;
             }
             .divider {
                 margin-top: 20px;
@@ -44,6 +44,7 @@
         }
         &__dscr {
             font-size: calc(10px + (10 + 10 * 0.7) * ((100vw - 320px) / 1280));
+            color: #829985;
             padding-top: 20px;
             text-transform: uppercase;
         }
