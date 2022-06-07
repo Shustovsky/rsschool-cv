@@ -1,7 +1,8 @@
 @import "libs/bootstrap-reboot.min";
 @import "base/variables";
-@import "blocks/main";
+@import "blocks/nav";
 @import "blocks/header";
+@import "blocks/main";
 * {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
@@ -31,11 +32,11 @@ body {
 
 a {
     text-decoration: none;
-    color: $main-color;
+    color: $link-color;
     padding: 0 10px;
     &:hover {
         transition: all 0.8s;
-        color: lightcoral;
-        text-decoration: dotted underline lightcoral 1px;
+        color: $decoration-color;
+        text-decoration: dotted underline $decoration-color 1px;
     }
 }
