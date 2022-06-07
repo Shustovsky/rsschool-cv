@@ -12,7 +12,7 @@
         }
         &__link {
             text-decoration: none;
-            color: #829985;
+            color: $main-color;
             padding: 0 20px;
             line-height: 50px;
             &:hover {
@@ -39,12 +39,12 @@
             .divider {
                 margin-top: 20px;
                 max-width: 200px;
-                border: solid 1px #829985;
+                border: solid 1px $main-color;
             }
         }
         &__dscr {
             font-size: calc(10px + (10 + 10 * 0.7) * ((100vw - 320px) / 1280));
-            color: #829985;
+            color: $main-color;
             padding-top: 20px;
             text-transform: uppercase;
         }
