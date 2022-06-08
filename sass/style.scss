@@ -33,6 +33,7 @@ body {
 }
 
 a {
+    display: block;
     text-decoration: none;
     color: $link-color;
     padding: 0 10px;
@@ -40,5 +41,11 @@ a {
         transition: all 0.8s;
         color: $decoration-color;
         text-decoration: dotted underline $decoration-color 1px;
+        transform: scale(1.1);
     }
+}
+
+h2:hover {
+    transition: all .3s;
+    border-bottom: solid 1px $main-color;
 }
