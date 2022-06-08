@@ -9,7 +9,20 @@
         .section {
             position: relative;
             padding: 30px;
-            border-bottom: 1px solid #000;
+            &:after {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 60%;
+                border-top: 1px solid $main-color;
+                transition: .5s;
+            }
+            &:last-child {
+                &::after {
+                    display: none;
+                }
+            }
             &__title {
                 color: $main-color;
             }
@@ -54,15 +67,3 @@
         font-size: 12px;
     }
 }
-
-
-/* section {
-     ::before {
-        position: absolute;
-        content: '';
-        height: 1px;
-        width: 20%;
-        background: black;
-        bottom: 1px;
-    }
-} */
