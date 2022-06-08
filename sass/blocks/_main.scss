@@ -7,6 +7,7 @@
         column-gap: 50px;
         padding: 10px;
         .section {
+            position: relative;
             padding: 30px;
             border-bottom: 1px solid #000;
             &__title {
@@ -23,7 +24,7 @@
                     content: '';
                     position: absolute;
                     top: 5px;
-                    left: -20px;
+                    left: -26px;
                     width: 12px;
                     height: 12px;
                     border: solid $main-color 3px;
@@ -41,7 +42,7 @@
                     width: 8px;
                     height: 8px;
                     top: 8px;
-                    left: -17px;
+                    left: -22px;
                     border-radius: 100%;
                     border: solid $main-color 1px;
                 }
@@ -49,3 +50,15 @@
         }
     }
 }
+
+
+/* section {
+     ::before {
+        position: absolute;
+        content: '';
+        height: 1px;
+        width: 20%;
+        background: black;
+        bottom: 1px;
+    }
+} */
