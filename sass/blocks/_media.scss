@@ -1,7 +1,10 @@
-@media(max-width:1200px) {}
-
-@media(max-width:992px) {}
-
-@media(max-width:767px) {}
-
-@media(max-width:576px) {}
+@media(max-width:576px) {
+    .profile {
+        &__name {
+            text-align: center;
+            .divider {
+                margin: 0 auto;
+            }
+        }
+    }
+}
