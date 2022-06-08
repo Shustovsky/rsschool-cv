@@ -3,7 +3,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        background: $main-color;
+        background: linear-gradient(180deg, $background-color, $main-color);
         padding: 20px;
         height: 100px;
     }
