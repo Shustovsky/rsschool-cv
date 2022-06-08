@@ -32,6 +32,12 @@
         &_photo {
             justify-self: center;
             height: 100%;
+             :hover {
+                filter: contrast(120%);
+                transition: all .3s;
+                transform: scale(1.1);
+                border: solid 5px $main-color;
+            }
             img {
                 border-radius: 100%;
                 height: 100%;
