@@ -1,0 +1,15 @@
+@media(max-width:576px) {
+    .profile {
+        &__name {
+            text-align: center;
+            .divider {
+                margin: 0 auto;
+            }
+        }
+    }
+    .nav {
+        &__list {
+            justify-content: center;
+        }
+    }
+}
