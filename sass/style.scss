@@ -1,0 +1,45 @@
+@import "base/variables";
+@import "blocks/nav";
+@import "blocks/header";
+@import "blocks/main";
+@import "blocks/footer";
+@import "blocks/media";
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+    /* подчеркивает каждый элемент карсным */
+}
+
+html {
+    scroll-behavior: smooth;
+    /* для плавной прокрутки */
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: $link-color;
+    padding: 0 10px;
+    &:hover {
+        transition: all 0.8s;
+        color: $decoration-color;
+        text-decoration: dotted underline $decoration-color 1px;
+        transform: scale(1.1);
+    }
+}

@@ -1,0 +1,69 @@
+.main {
+    &_container {
+        background: $background-color;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        grid-auto-flow: dense;
+        column-gap: 50px;
+        padding: 10px;
+        .section {
+            position: relative;
+            padding: 30px;
+            &:after {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 60%;
+                border-top: 1px solid $main-color;
+                transition: 0.5s;
+            }
+            &:last-child {
+                &::after {
+                    display: none;
+                }
+            }
+            &__title {
+                color: $main-color;
+            }
+        }
+    }
+    .list {
+        &_first {
+            li {
+                list-style-type: none;
+                position: relative;
+                &:before {
+                    content: '';
+                    position: absolute;
+                    top: 5px;
+                    left: -26px;
+                    width: 12px;
+                    height: 12px;
+                    border: solid $main-color 3px;
+                }
+            }
+        }
+        &_second {
+            padding-left: 20px;
+            li {
+                list-style-type: none;
+                position: relative;
+                &::before {
+                    content: '';
+                    position: absolute;
+                    width: 8px;
+                    height: 8px;
+                    top: 8px;
+                    left: -22px;
+                    border-radius: 100%;
+                    border: solid $main-color 1px;
+                }
+            }
+        }
+    }
+    .note {
+        font-style: italic;
+        font-size: 12px;
+    }
+}
