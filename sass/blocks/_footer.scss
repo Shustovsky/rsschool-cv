@@ -1,0 +1,22 @@
+.footer {
+    &_container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background: linear-gradient(180deg, $background-color, $main-color);
+        padding: 20px;
+        height: 100px;
+    }
+    &__dscr {
+        color: #ffffff;
+        a {
+            display: inline-block;
+            color: #ffffff;
+        }
+    }
+    &__logo {
+        &_img {
+            max-width: 120px;
+        }
+    }
+}
