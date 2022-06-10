@@ -93,6 +93,7 @@
 .main_container .section {
   position: relative;
   padding: 30px;
+  margin: 30px;
 }
 
 .main_container .section:after {
