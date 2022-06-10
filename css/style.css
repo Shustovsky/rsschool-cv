@@ -92,8 +92,8 @@
 
 .main_container .section {
   position: relative;
-  padding: 30px;
-  margin: 30px;
+  padding: 20px 0 20px 20px;
+  margin-left: 20px;
 }
 
 .main_container .section:after {
