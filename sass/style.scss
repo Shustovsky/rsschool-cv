@@ -1,9 +1,4 @@
 @import "base/variables";
-@import "blocks/nav";
-@import "blocks/header";
-@import "blocks/main";
-@import "blocks/footer";
-@import "blocks/media";
 * {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
@@ -43,3 +38,9 @@ a {
         transform: scale(1.1);
     }
 }
+
+@import "blocks/nav";
+@import "blocks/header";
+@import "blocks/main";
+@import "blocks/footer";
+@import "blocks/media";
